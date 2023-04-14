@@ -2,6 +2,19 @@
 
 ### Welcome to AR-js-org!
 
+Try one of our examples with the **AR.js** library:
+
+### 🖼 **Image Tracking**
+[open this live example](./aframe/examples/image-tracking/nft/) and point your camera to the trex
+
+![trex image](./aframe/examples/image-tracking/nft/trex-image-big.jpeg)
+
+
+### 🔲 Marker Based Example
+[open this live example](./aframe/examples/marker-based/basic.html) and point your camera to the hiro marker
+
+![hiro marker](./aframe/examples/marker-based/HIRO.jpg).
+
 <!--
 
 **Here are some ideas to get you started:**
