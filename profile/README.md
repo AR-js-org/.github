@@ -7,13 +7,13 @@ Try one of our examples with the **AR.js** library:
 ### 🖼 **Image Tracking**
 [open this live example](https://ar-js-org.github.io/.github/profile/aframe/examples/image-tracking/nft/) and point your camera to the trex
 
-![trex image](./profile/aframe/examples/image-tracking/nft/trex-image-big.jpeg)
+![trex image](./aframe/examples/image-tracking/nft/trex-image-big.jpeg)
 
 
 ### 🔲 Marker Based Example
 [open this live example](https://ar-js-org.github.io/.github/profile/aframe/examples/marker-based/basic.html) and point your camera to the hiro marker
 
-![hiro marker](./profile/aframe/examples/marker-based/HIRO.jpg).
+![hiro marker](./aframe/examples/marker-based/HIRO.jpg).
 
 <!--
 
